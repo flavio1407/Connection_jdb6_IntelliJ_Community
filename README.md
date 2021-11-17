@@ -2,9 +2,9 @@
 
 Config Add "ojdbc6.jar"  IntelliJ IDEA Community
 
-1-  File
+1 - File
 
-2-  Project Structure
+2 - Project Structure
 
 3 - Modules
 
@@ -12,6 +12,6 @@ Config Add "ojdbc6.jar"  IntelliJ IDEA Community
 
 5 - Click "+"
 
-7-  Add Jars or Directories
+7 - Add Jars or Directories
 
 6 - Object Search "ojdbc6.jar" 
