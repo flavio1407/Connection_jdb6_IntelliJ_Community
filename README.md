@@ -1,6 +1,6 @@
 # Connection jdb6 Oracle IntelliJ IDEA Community Edition 2021.2.3
 
-Add "ojdbc6.jar"  IntelliJ IDEA Community
+Config Add "ojdbc6.jar"  IntelliJ IDEA Community
 
 1-  File
 
