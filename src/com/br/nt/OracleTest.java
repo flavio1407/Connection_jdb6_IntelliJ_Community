@@ -21,7 +21,7 @@ public class OracleTest {
         Statement st= con.createStatement();
 
         //Execute the query
-        ResultSet rs= st.executeQuery("select * from TESTE_MONITORA WHERE rownum < 53");
+        ResultSet rs= st.executeQuery("select * from tab WHERE rownum < 53");
 
         //Print database table records
         while (rs.next())
