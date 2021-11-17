@@ -7,9 +7,7 @@ import java.sql.Statement;
 
 public class OracleTest {
 
-    //https://www.youtube.com/watch?v=-MDPYDi01dM&ab_channel=CodeHelper
-    //https://www.youtube.com/watch?v=bpBLxwWNskM
-
+  
     public static void  main(String[] args) throws  Exception
     {
         // Create jdbc connection obj and load class
